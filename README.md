@@ -1,8 +1,21 @@
 # Phần mềm quản lý quán cafe
 Đây là phần mềm do mình code khoảng 1 tháng. 
 
-Mình sử dụng C# framework Winform, xây dựng cơ sở dữ liệu bằng SQL.
+Mình sử dụng ngôn ngữ lập trình 
 
-Gồm các chức năng Thêm, xóa, sửa món ăn, thanh toán, chuyển bàn.
+-C# với framework Winform
+-SQL để xây dự CSDL
 
-Nhược điểm: Giao diện không được đẹp nhìn khá cổ điển, cần import các hình ảnh vào cho phần mềm được đẹp hơn.
+Dự án mình viết có tham khảo code từ [HowKteam](https://www.youtube.com/watch?v=tu2k9ZrDlWA&list=PL33lvabfss1xnPhBJHjM0A8TEBBcGCTsf)
+
+Gồm các chức năng như sau:
+
+-Thêm
+-Xóa
+-Sửa món ăn
+-Thanh toán
+-Chuyển bàn.
+
+Nhược điểm: 
+-Giao diện không được đẹp nhìn khá cổ điển
+-Cần import các hình ảnh vào cho phần mềm được đẹp hơn.
